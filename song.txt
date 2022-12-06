@@ -7,3 +7,6 @@ another
 
 some content
 for feature branch
+
+some content 
+for second feature commit
