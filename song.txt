@@ -3,3 +3,7 @@ some
 another 
 2 rows from second commit
 -----------------------------
+
+
+some content
+for feature branch
