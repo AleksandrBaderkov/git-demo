@@ -2,8 +2,6 @@ some
 2 rows
 another 
 2 rows from second commit
------------------------------
-
 
 some content
 for feature branch
