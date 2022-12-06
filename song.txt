@@ -7,3 +7,6 @@ another
 
 some content
 for feature branch
+
+
+and 3-rd couplete
