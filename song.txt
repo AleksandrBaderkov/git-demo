@@ -7,3 +7,5 @@ some content
 for feature branch
 
 and 3-rd couplete
+
+for tag only
